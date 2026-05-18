@@ -49,7 +49,7 @@ The cell with the **highest E[value]** is recommended. This metric is strictly b
 ## Usage
 
 ```bash
-python voltorb_flip_solver.py
+python voltorb_flip.py
 ```
 
 Enter the clues when prompted (one row/column at a time, `SUM VOLTORBS`):
